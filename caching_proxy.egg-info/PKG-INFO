@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: caching-proxy
+Version: 0.1.0
+Summary: A CLI tool that starts a caching proxy server.
+Author-email: Luvaha <luvaha456@gmail.com>
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: requests
