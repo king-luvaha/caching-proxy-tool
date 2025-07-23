@@ -160,7 +160,7 @@ caching_proxy/
 
 ## 📜 License
 
-MIT License © 2025 \[Your Name]
+[MIT License](LICENSE) © 2025
 
 ---
 
