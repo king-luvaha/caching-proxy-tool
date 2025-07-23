@@ -1,0 +1,13 @@
+[project]
+name = "caching-proxy"
+version = "0.1.0"
+description = "A CLI tool that starts a caching proxy server."
+authors = [
+    { name="Luvaha", email="luvaha456@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = ["requests"]
+
+[project.scripts]
+caching-proxy = "caching_proxy.main:main"
